@@ -22,4 +22,3 @@ def assign_room(attendees)
   end
   return badges
 end
-end
